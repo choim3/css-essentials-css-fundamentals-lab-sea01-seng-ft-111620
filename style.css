@@ -8,7 +8,7 @@ body {
 h1 {
   text-align: center;
 }
-section {
-  margin: center;
-  color: blue;
+
+img {
+  margin-left: auto;
 }
