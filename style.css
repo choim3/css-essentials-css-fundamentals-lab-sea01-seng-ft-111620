@@ -34,3 +34,6 @@ figcaption {
   margin-right: auto;
   margin-left: auto;
 }
+
+#details > div {
+float: left;
